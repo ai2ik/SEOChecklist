@@ -1,0 +1,95 @@
+Issue Type / Issue
+ERROR	5xx errors
+ERROR	4xx errors
+ERROR	Title tag is missing or empty
+NOTICE	Blocked from crawling
+ERROR	Duplicate title tag
+ERROR	Duplicate content
+ERROR	Broken internal links
+ERROR	Pages not crawled
+ERROR	DNS resolution issue
+ERROR	We couldn't open the page's URL
+WARNING	Broken external links
+ERROR	Broken internal images
+WARNING	Broken external images
+ERROR	Duplicate meta descriptions
+ERROR	Invalid robots.txt format
+ERROR	Invalid sitemap.xml format
+ERROR	Incorrect pages found in sitemap.xml
+ERROR	www resolve issues
+ERROR	Viewport not configured
+ERROR	Large HTML page size
+ERROR	Missing canonical tags in AMP pages
+ERROR	Issues with hreflang values
+ERROR	Hreflang conflicts within page source code
+ERROR	Issues with incorrect hreflang links
+ERROR	Non-secure pages
+ERROR	Certificate Expiration
+ERROR	Old security protocol version
+ERROR	Certificate registered to incorrect name
+ERROR	Issues with mixed content
+WARNING	Links lead to HTTP pages for HTTPS site
+ERROR	Neither canonical URL nor 301 redirect from HTTP homepage
+ERROR	Redirect chains and loops
+ERROR	AMP Pages with HTML Issues
+ERROR	AMP Pages with Style and Layout Issues
+ERROR	AMP Pages with Templating Issues
+ERROR	Broken canonical URLs
+ERROR	Multiple canonical URLs
+ERROR	Meta refresh redirects
+ERROR	Broken internal JavaScript and CSS files
+ERROR	Insecure encryption algorithms
+ERROR	Sitemap file too large
+ERROR	Malformed links
+ERROR	Structured data that contains markup errors
+WARNING	Title element is too short
+WARNING	Title element is too long
+WARNING	Missing h1
+NOTICE	Multiple h1 tags
+WARNING	Duplicate content in h1 and title
+WARNING	Missing meta description
+WARNING	Too many on-page links
+WARNING	Temporary redirects
+WARNING	Missing ALT attributes
+ERROR	Slow page load speed
+WARNING	Low text to HTML ratio
+WARNING	Too many URL parameters
+WARNING	Missing hreflang and lang attributes
+WARNING	Encoding not declared
+WARNING	Doctype not declared
+WARNING	Low word count
+WARNING	Flash content used
+WARNING	Frames used
+WARNING	Underscores in URL
+WARNING	Nofollow attributes in internal links
+WARNING	Sitemap.xml not specified in robots.txt
+WARNING	Sitemap.xml not found
+WARNING	HTTP encryption not used
+WARNING	No SNI support
+WARNING	HTTP URLs in sitemap.xml for HTTPS site
+WARNING	Uncompressed pages
+WARNING	Disallowed internal resources
+WARNING	Uncompressed JavaScript and CSS files
+WARNING	Uncached JavaScript and CSS files
+WARNING	Too large JavaScript and CSS total size
+WARNING	Too many JavaScript and CSS files
+WARNING	Unminified JavaScript and CSS files
+WARNING	Warning - Too long URLs
+NOTICE	Too long URLs
+NOTICE	Nofollow attributes in external links
+NOTICE	Robots.txt not found
+NOTICE	Hreflang language mismatch issues
+NOTICE	No HSTS support
+NOTICE	Orphaned pages (Google Analytics)
+NOTICE	Orphaned sitemap pages
+NOTICE	Pages have high Document Interactive Time
+NOTICE	Blocked by X-Robots-Tag: noindex HTTP header
+NOTICE	Disallowed external resources
+NOTICE	Broken external JavaScript and CSS files
+NOTICE	Page crawl depth
+NOTICE	Pages with only one internal link
+NOTICE	Permanent redirects
+NOTICE	Resources formatted as page links
+NOTICE	Links with no anchor text
+NOTICE	Links with non-descriptive anchor text
+NOTICE	External pages or resources with 403 HTTP status code

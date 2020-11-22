@@ -1,0 +1,42 @@
+Internal 
+- Indexablity
+- Size
+- Word Count
+- Crawl Depth
+- Link Score
+- Response Times
+
+HTTP Links (non-SSL)
+3XX Errors
+4XX Errors
+5XX Errors
+Underscores
+Uppercase
+
+Page Titles
+- Missing
+- Duplicate
+
+Meta Descriptions
+- Missing
+- Duplicate
+
+H1
+- Missing
+- Duplicate
+
+Content 
+- Duplicates (Similarities)
+- Low content 
+- Spelling Errors
+
+Images
+- Missing ALT tags
+- Over 500kb
+
+Sitemap
+- Orphaned Content
+
+Advanced
+- Google Analytics (low traffic)
+- Google Search Consoles (low clicks)

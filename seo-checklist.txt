@@ -1,0 +1,49 @@
+Basic
+- Yoast
+- XML Sitemap
+- Robots
+- GA
+- GSC
+- Citations
+
+Keyword
+- Search Intent
+- PAA (+ content gap)
+- KW Difficulty 
+-- Extra:
+--- KW in URL
+--- Short URLs
+--- Front Load KW
+
+On Page
+- Short URLs
+- Title tags + Descriptions
+- H1
+- Internal Linking
+- IMG + ALT
+- Schema
+
+Content
+- Intro
+- Readability 
+- Short Sentences + Paragraphs
+- Best Piece vs competition
+
+Tech Errors
+- Crawl errors (GSC)
+- Fast loading
+- Outbound links
+- Mobile friendly
+- Https
+- Duplicate content
+
+Link building
+- Competitor links
+- Reclaim lost links
+- Unlinked mentions
+- Outreach
+
+Advanced
+- Dead Pages
+- URL structure
+- Silo Products + Services
